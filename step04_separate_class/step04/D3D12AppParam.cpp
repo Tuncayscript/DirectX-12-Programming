@@ -1,6 +1,6 @@
 // D3D12AppParam.cpp
 //  
-//   Written by Akiko Kawai
+//   Written by Tunjay Akbarli
 // ===========================================
 // include
 
